@@ -1,0 +1,22 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Totowdu80/wilders.git"
+  },
+  "author": "Toto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Totowdu80/wilders/issues"
+  },
+  "homepage": "https://github.com/Totowdu80/wilders#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
